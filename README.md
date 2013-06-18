@@ -1,11 +1,11 @@
-cpi_scrapers
+Read me
 ============
 
-scrapy template for online store.
+Scrapy template for online store.
 
 If you have any question, please contant to @Anfernee Chang
-  - gtalk: innovotech.hr@gmail.com
-  - skype: anfernee-chang
+  - Gtalk: innovotech.hr@gmail.com
+  - Skype: anfernee-chang
 
 
 ### Product Database Schema
